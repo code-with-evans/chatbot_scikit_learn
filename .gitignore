@@ -1,0 +1,126 @@
+# Virtual environments
+venv/
+../sckit_chatbot_venv/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs
+*.log
+
+# Jupyter & IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment & secrets
+.env
+*.pem
+*.key
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build/Packaging
+build/
+dist/
+*.egg-info/
+
+# VSCode / PyCharm / IDE
+.vscode/
+.idea/
+
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+.env
+.venv
+venv/
+ENV/
+env/
+*.sqlite3
+
+
+*.out
+*.err
+
+
+.idea/
+*.swp
+.DS_Store
+
+# === Data & Models ===
+data/*.pkl
+data/*.joblib
+data/*.npy
+data/*.npz
+models/*.pkl
+models/*.joblib
+models/*.bin
+models/*.h5
+models/*.pt
+models/*.onnx
+
+
+.cache/
+__pycache__/
+*.pytest_cache/
+*.mypy_cache/
+*.hypothesis/
+
+# === Build / Dist ===
+build/
+dist/
+*.egg-info/
+*.spec
+
+# === Docker ===
+*.pid
+*.seed
+*.pid.lock
+
+# === Streamlit ===
+.streamlit/secrets.toml
+
+# === OS / Misc ===
+Thumbs.db
+ehthumbs.db
+
+
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+sckit_chatbot_venv/
+
+models/*.pkl
+*.joblib
+
+
+data/chatbot_model.pkl
+
+
